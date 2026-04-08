@@ -1,0 +1,26 @@
+[
+    {
+        "id": "test-1",
+        "author": "João Silva",
+        "role": "Construtor Autônomo",
+        "text": "Compro na Caboclo há anos para minhas obras. Sempre entregam no prazo e o preço do cimento é imbatível na região.",
+        "rating": 5,
+        "date": "2026-01-15T10:00:00Z"
+    },
+    {
+        "id": "test-2",
+        "author": "Maria Cecília",
+        "role": "Cliente Particular",
+        "text": "Fiz a reforma do meu banheiro e encontrei todos os acabamentos aqui. O atendimento pelo WhatsApp facilitou muito a compra.",
+        "rating": 5,
+        "date": "2026-02-02T14:30:00Z"
+    },
+    {
+        "id": "test-3",
+        "author": "Empreiteira Roma",
+        "role": "Cliente Corporativo",
+        "text": "A variedade de ferramentas e o faturamento facilitado para empresas nos ajudam a manter o cronograma das obras.",
+        "rating": 4,
+        "date": "2025-12-20T09:15:00Z"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": "cat-1",
+        "slug": "argamassa-e-rejunte",
+        "name": "Argamassa & Rejunte",
+        "image": "/images/categories/argamassa.jpg",
+        "icon": "Package",
+        "productCount": 145
+    },
+    {
+        "id": "cat-2",
+        "slug": "ferramentas",
+        "name": "Ferramentas",
+        "image": "/images/categories/ferramentas.jpg",
+        "icon": "Wrench",
+        "productCount": 320
+    },
+    {
+        "id": "cat-3",
+        "slug": "eletrica",
+        "name": "Material Elétrico",
+        "image": "/images/categories/eletrica.jpg",
+        "icon": "Zap",
+        "productCount": 540
+    },
+    {
+        "id": "cat-4",
+        "slug": "hidraulica",
+        "name": "Hidráulica",
+        "image": "/images/categories/hidraulica.jpg",
+        "icon": "Droplet",
+        "productCount": 430
+    },
+    {
+        "id": "cat-5",
+        "slug": "pisos-e-revestimentos",
+        "name": "Pisos & Revestimentos",
+        "image": "/images/categories/pisos.jpg",
+        "icon": "PaintRoller",
+        "productCount": 890
+    },
+    {
+        "id": "cat-6",
+        "slug": "tintas",
+        "name": "Tintas",
+        "image": "/images/categories/tintas.jpg",
+        "icon": "PaintBucket",
+        "productCount": 210
+    }
+]

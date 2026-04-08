@@ -1,0 +1,25 @@
+[
+    {
+        "id": "promo-1",
+        "title": "Festival do Cimento",
+        "description": "Compre acima de 20 sacos de Cimento CP-III e ganhe frete grátis para a região metropolitana.",
+        "discountPercentage": 5,
+        "validUntil": "2026-03-31T23:59:59Z",
+        "productIds": [
+            "prod-1",
+            "prod-2"
+        ]
+    },
+    {
+        "id": "promo-2",
+        "title": "Semana da Pintura",
+        "description": "Toda a linha de tintas acrílicas Suvinil com 15% de desconto no PIX.",
+        "discountPercentage": 15,
+        "validUntil": "2026-03-15T23:59:59Z",
+        "productIds": [
+            "prod-6",
+            "prod-7",
+            "prod-8"
+        ]
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "id": "prod-1",
+        "slug": "piso-ceramico-46x46-cerbras-ipanema-cinza",
+        "name": "Piso Cerâmico 46x46 Cerbras Ipanema Cinza",
+        "categoryId": "cat-5",
+        "price": 21.90,
+        "originalPrice": 29.90,
+        "images": [
+            "/images/products/ceramica-cerbras.jpg"
+        ],
+        "description": "Piso Cerâmico 46x46 Cerbras Ipanema Cinza para uso geral na construção, oferecendo mais secagem rápida e alta resistência.",
+        "technicalInfo": {
+            "Tamanho": "46x46",
+            "Tipo": "Cerâmica",
+            "Marca": "Cerbras"
+        },
+        "stock": 150,
+        "tags": [
+            "mais vendido",
+            "promoção",
+            "construção básica"
+        ]
+    },
+    {
+        "id": "prod-2",
+        "slug": "torneira-de-mesa-bica-alta-para-lavatorio-tube-deca",
+        "name": "Torneira de Mesa Bica Alta para Lavatório Tube, Deca",
+        "categoryId": "cat-4",
+        "price": 590.90,
+        "originalPrice": null,
+        "images": [
+            "/images/products/torneira.jpg"
+        ],
+        "description": "Torneira de Mesa Bica Alta para Lavatório Tube, Deca ideal para uso em banheiros e lavatórios.",
+        "technicalInfo": {
+            "Acabamento": "Cromado",
+            "Tipo": "Bica Alta",
+            "Marca": "Deca"
+        },
+        "stock": 4,
+        "tags": [
+            "construção básica"
+        ]
+    },
+    {
+        "id": "prod-3",
+        "slug": "argamassa-ac-i-interior-20kg-quartzolit",
+        "name": "Argamassa AC I Interior 20kg Quartzolit",
+        "categoryId": "cat-1",
+        "price": 12.90,
+        "originalPrice": null,
+        "images": [
+            "/images/products/argamassa-aci.jpg"
+        ],
+        "description": "Argamassa ACI para assentamento de cerâmicas em ambientes internos secos.",
+        "technicalInfo": {
+            "Peso": "20kg",
+            "Rendimento": "4kg/m²",
+            "Cor": "Cinza"
+        },
+        "stock": 85,
+        "tags": [
+            "acabamentos"
+        ]
+    },
+    {
+        "id": "prod-4",
+        "slug": "furadeira-impacto-500w-127v-bosch",
+        "name": "Furadeira de Impacto 500W 127V Bosch GSB 450",
+        "categoryId": "cat-2",
+        "price": 189.90,
+        "originalPrice": 229.90,
+        "images": [
+            "/images/products/furadeira-bosch.jpg"
+        ],
+        "description": "Furadeira de impacto reversível ideal para perfurações em alvenaria, metal e madeira.",
+        "technicalInfo": {
+            "Potência": "500W",
+            "Tensão": "127V",
+            "Velocidade": "0 - 3100 RPM"
+        },
+        "stock": 12,
+        "tags": [
+            "ferramentas elétricas",
+            "destaque"
+        ]
+    },
+    {
+        "id": "prod-5",
+        "slug": "cabo-flexivel-2-5mm-100m-corcovado",
+        "name": "Cabo Flexível 2,5mm Vermelho rolo c/ 100m Corcovado",
+        "categoryId": "cat-3",
+        "price": 145.00,
+        "originalPrice": null,
+        "images": [
+            "/images/products/cabo-vermelho.jpg"
+        ],
+        "description": "Cabo flexível isolado em PVC 750V para instalações elétricas internas residenciais e comerciais.",
+        "technicalInfo": {
+            "Seção": "2,5 mm²",
+            "Comprimento": "100m",
+            "Cor": "Vermelho",
+            "Tensão Máxima": "750V"
+        },
+        "stock": 35,
+        "tags": [
+            "elétrica",
+            "mais vendido"
+        ]
+    },
+    {
+        "id": "prod-6",
+        "slug": "tinta-acrilica-fosca-18l-branco-neve-suvinil",
+        "name": "Tinta Acrílica Fosca 18L Branco Neve Suvinil Rendimento Extra",
+        "categoryId": "cat-6",
+        "price": 329.90,
+        "originalPrice": 389.90,
+        "images": [
+            "/images/products/tinta-suvinil.jpg"
+        ],
+        "description": "Tinta acrílica de excelente rendimento e cobertura para áreas internas e externas.",
+        "technicalInfo": {
+            "Volume": "18 Litros",
+            "Acabamento": "Fosco",
+            "Cor": "Branco Neve"
+        },
+        "stock": 5,
+        "tags": [
+            "tintas",
+            "promoção"
+        ]
+    },
+    {
+        "id": "prod-7",
+        "slug": "tubo-esgoto-100mm-barra-6m-tigre",
+        "name": "Tubo de Esgoto Série Normal 100mm Barra 6m Tigre",
+        "categoryId": "cat-4",
+        "price": 78.50,
+        "originalPrice": null,
+        "images": [
+            "/images/products/tubo-esgoto.jpg"
+        ],
+        "description": "Tubo de PVC para condução de efluentes de esgoto sanitário.",
+        "technicalInfo": {
+            "Diâmetro": "100mm",
+            "Comprimento": "6 metros",
+            "Material": "PVC PVC Branca"
+        },
+        "stock": 40,
+        "tags": [
+            "hidráulica",
+            "básica"
+        ]
+    }
+]
