@@ -4,12 +4,12 @@ import { Instagram, Facebook, Youtube } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const posts = [
-    { id: 1, image: "https://picsum.photos/id/1015/500/500", likes: 124, comments: 12 },
-    { id: 2, image: "https://picsum.photos/id/1020/500/500", likes: 89, comments: 5 },
-    { id: 3, image: "https://picsum.photos/id/1025/500/500", likes: 256, comments: 34 },
-    { id: 4, image: "https://picsum.photos/id/1031/500/500", likes: 145, comments: 8 },
-    { id: 5, image: "https://picsum.photos/id/1035/500/500", likes: 312, comments: 45 },
-    { id: 6, image: "https://picsum.photos/id/1040/500/500", likes: 198, comments: 21 },
+    { id: 1, image: "/images/instagram/1.jpg", likes: 124, comments: 12 },
+    { id: 2, image: "/images/instagram/2.jpg", likes: 89, comments: 5 },
+    { id: 3, image: "/images/instagram/3.jpg", likes: 256, comments: 34 },
+    { id: 4, image: "/images/instagram/4.jpg", likes: 145, comments: 8 },
+    { id: 5, image: "/images/instagram/5.jpg", likes: 312, comments: 45 },
+    { id: 6, image: "/images/instagram/6.jpg", likes: 198, comments: 21 },
 ];
 
 export function SocialMedia() {
@@ -27,17 +27,17 @@ export function SocialMedia() {
                         </p>
                     </div>
                     <div className="flex gap-3">
-                        <Button variant="outline" size="sm" asChild>
-                            <Link href="https://instagram.com" target="_blank">
-                                <Instagram className="mr-2 h-4 w-4" /> @cabocloconstrucoes
+                        <Button variant="outline" size="sm" asChild className="hover:text-primary hover:bg-primary/10">
+                            <Link href="https://www.instagram.com/construcoes.caboclo/" target="_blank">
+                                <Instagram className="mr-2 h-4 w-4" /> @construcoes.caboclo
                             </Link>
                         </Button>
-                        <Button variant="outline" size="sm" asChild className="hidden sm:flex">
+                        <Button variant="outline" size="sm" asChild className="hidden sm:flex hover:text-primary hover:bg-primary/10">
                             <Link href="https://facebook.com" target="_blank">
                                 <Facebook className="mr-2 h-4 w-4" /> Facebook
                             </Link>
                         </Button>
-                        <Button variant="outline" size="sm" asChild className="hidden sm:flex">
+                        <Button variant="outline" size="sm" asChild className="hidden sm:flex hover:text-primary hover:bg-primary/10">
                             <Link href="https://youtube.com" target="_blank">
                                 <Youtube className="mr-2 h-4 w-4 text-red-600" /> YouTube
                             </Link>
