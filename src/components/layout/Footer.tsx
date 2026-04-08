@@ -4,7 +4,7 @@ import { Facebook, Instagram, Mail, MapPin, Phone } from "lucide-react";
 export function Footer() {
     return (
         <footer className="bg-zinc-950 text-zinc-300">
-            <div className="container py-12 px-4 md:px-6">
+            <div className="container py-12">
                 <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-4">
 
                     {/* Brand Info */}
@@ -86,7 +86,7 @@ export function Footer() {
             </div>
 
             <div className="border-t border-zinc-800">
-                <div className="container py-6 px-4 md:px-6 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-zinc-500">
+                <div className="container py-6 flex flex-col md:flex-row justify-between items-center gap-4 text-xs text-zinc-500">
                     <p>&copy; {new Date().getFullYear()} Caboclo Construções. Todos os direitos reservados.</p>
                     <div className="flex gap-4">
                         <Link href="/sobre" className="hover:text-primary">Termos de Uso</Link>
