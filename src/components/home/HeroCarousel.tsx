@@ -9,7 +9,7 @@ import { ChevronLeft, ChevronRight } from "lucide-react";
 const slides = [
     {
         id: 1,
-        image: "https://lh3.googleusercontent.com/gps-cs-s/AHVAweoEoST5fN4VEW1Mifs4Auo_efnfDS1wAk5TFX-0pzS6GnIrNiB3SySlbD2zrx74FIcZJr1KyqcFHcRezrGU15CArgvNW5bCcYD8YN5brOqLtwfsza0aXDORimyqr84Zh9Ha2rgsdtW8aJSG=s1360-w1360-h1020-rw",
+        image: "/images/slides/1.jpg",
         title: "Tudo para sua obra, do alicerce ao telhado",
         subtitle: "Encontre os melhores materiais de construção com os melhores preços da região. Qualidade e entrega rápida garantidas.",
         cta1: { text: "Ver Ofertas", link: "/promocoes" },
@@ -17,7 +17,7 @@ const slides = [
     },
     {
         id: 2,
-        image: "https://lh3.googleusercontent.com/gps-cs-s/AHVAweqS7OG_It8TJ9OaRbIjZGmmTbpjuSqFdR-gu_e0jh4DmjpmiohenFxstBFt88lNrm0FtVQF3HjfBA6wzA1Ds1C4qAnOKbFtWmxzEByViiIpD1-Aq-yzVEXKGf22EN2d8jhpmLtO_jb1unU=s1360-w1360-h1020-rw",
+        image: "/images/slides/2.jpg",
         title: "Acabamentos de Alta Qualidade",
         subtitle: "Renove sua casa com nossa linha premium de pisos, revestimentos e tintas das melhores marcas do mercado.",
         cta1: { text: "Comprar Agora", link: "/loja/acabamentos" },
@@ -25,7 +25,7 @@ const slides = [
     },
     {
         id: 3,
-        image: "https://lh3.googleusercontent.com/gps-cs-s/AHVAwerH-fayxpeHmFz24MZeBPeV-Q3eI16i0Mjj4hnuXIxWE9UC7wD24mIY6j1TTRnCSsJq-BQk0ahDzjAMQVyxk4buaVpu9GkDWcb-W85q3K9pQVzwSJaxzsVSuoPzp-HMH8umpWLA-pfMhIlU=s1360-w1360-h1020-rw",
+        image: "/images/slides/3.jpg",
         title: "Ferramentas Profissionais",
         subtitle: "Equipe-se com o que há de melhor. Linha completa de ferramentas manuais e elétricas para todos os tipos de trabalho.",
         cta1: { text: "Ver Ferramentas", link: "/loja/ferramentas" },
